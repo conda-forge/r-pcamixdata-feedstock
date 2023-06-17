@@ -1,11 +1,11 @@
-About r-pcamixdata
-==================
+About r-pcamixdata-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pcamixdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=PCAmixdata
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pcamixdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements principal component analysis, orthogonal rotation and multiple factor analysis for a mixture of quantitative and qualitative variables.
 
